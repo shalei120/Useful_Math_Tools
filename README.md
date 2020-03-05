@@ -1,2 +1,2 @@
 # P_value_python
-Example code for p_value
+Example code for some useful mathtools
